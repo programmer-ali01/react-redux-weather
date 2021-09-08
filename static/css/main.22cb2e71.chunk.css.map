@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Weather.css"],"names":[],"mappings":"AAAA,SACI,eACJ,CAEA,MACI,eACJ","file":"main.22cb2e71.chunk.css","sourcesContent":[".heading {\n    font-weight: bold;\n}\n\n.data {\n    padding-top: 5px;\n}"]}
