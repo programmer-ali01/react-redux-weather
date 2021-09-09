@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Web app published on this url: 
+ https://programmer-ali01.github.io/react-redux-weather/
+ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
